@@ -35,7 +35,7 @@ Secara default, Pod hanya bisa diakses melalui alamat IP internal di dalam clust
 1. Ekspos Pod pada internet publik menggunakan perintah `kubectl expose` `--type-LoadBalancer` digunakan untuk ekspos Service keluar dari Cluster.\
 `kubectl expose deployment python-flask --type=LoadBalancer --port=5000`\
 Output :\
-`service/python-flask exposed`\
+`service/python-flask exposed`
 
 2. Melihat Service yang telah dibuat\
 `kubectl get services`\
