@@ -1,5 +1,7 @@
 # KUBERNETES
 
+Kubernetes merupakan platform open-source yang digunakan untuk melakukan manajemen workloads aplikasi yang dikontainerisasi, serta menyediakan konfigurasi dan otomatisasi secara deklaratif.
+
 ## Komponen-Komponen Kubernetes
 
 ### Komponen Master
